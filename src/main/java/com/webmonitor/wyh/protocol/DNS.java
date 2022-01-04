@@ -8,10 +8,6 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * @author 没事啦 协议解析参考：https://blog.csdn.net/tianxuhong/article/details/74922454
- *
- */
 public class DNS extends Protocol {
 
 	private ArrayList<Area> queryList = new ArrayList<Area>();

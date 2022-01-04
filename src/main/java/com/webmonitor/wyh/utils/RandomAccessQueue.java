@@ -3,7 +3,6 @@ package com.webmonitor.wyh.utils;
 import java.util.ArrayList;
 
 /**
- * @author 没事啦
  * 为支持队列的随机访问，自定义一个简单长度固定的队列的队列
  * 内部用ArrayList实现来实现循环队列
  * 规则：从队尾进，从队首出
